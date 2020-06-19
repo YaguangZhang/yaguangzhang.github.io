@@ -1,2 +1,9 @@
+# Jekyll
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
