@@ -1,10 +1,20 @@
 ---
 layout: archive
 title: "CV"
+excerpt: "My Curriculum Vitae."
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+cv_file_name: "YaguangZhang_Resume_LetterSize_20200630_Purdue"
 ---
-[Download the PDF file.](https://yaguangzhang.github.io/files/YaguangZhang_Resume_LetterSize_20200630_Purdue.pdf)
-<iframe src="https://yaguangzhang.github.io/files/YaguangZhang_Resume_LetterSize_20200630_Purdue.pdf" width="100%" height="100%"></iframe>
+
+{% include base_path %}
+
+[Click me to get a PDF copy.]({{ base_path }}/files/{{ page.cv_file_name }}.pdf)
+
+<div>
+  <div style="position:relative;padding-top:133.33%;">
+    <iframe src="{{ base_path }}/files/{{ page.cv_file_name }}.pdf#view=FitH" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen></iframe>
+  </div>
+</div>
