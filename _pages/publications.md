@@ -49,6 +49,6 @@ Conferences
 Data Sets
 ---------
 
-1.  **Zhang, Y.**, Krogmeier, J. (2019). **Combine Kart Truck GPS data archive**. Purdue University Research Repository. DOI: [10.4231/4Z4S-M018](https://doi.org/10.4231/4Z4S-M018).
+1.  **Zhang, Y.**, Krogmeier, J. (2019). **Combine Kart Truck GPS data archive**. *Purdue University Research Repository*. DOI: [10.4231/4Z4S-M018](https://doi.org/10.4231/4Z4S-M018).
 
-2.  **Zhang, Y.**, Krogmeier, J. (2020). **Combine Kart Truck GPS data archive**. (Version 1.1). Purdue University Research Repository. DOI: [10.4231/GMH9-8X88](https://doi.org/10.4231/GMH9-8X88).
+2.  **Zhang, Y.**, Krogmeier, J. (2020). **Combine Kart Truck GPS data archive**. (Version 1.1). *Purdue University Research Repository*. DOI: [10.4231/GMH9-8X88](https://doi.org/10.4231/GMH9-8X88).

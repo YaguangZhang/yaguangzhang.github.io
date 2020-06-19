@@ -27,4 +27,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "hawkins"
+  gem "activesupport", ">= 4.1.11"
 end
