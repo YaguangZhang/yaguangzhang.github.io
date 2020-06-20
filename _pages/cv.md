@@ -14,7 +14,7 @@ cv_file_name: "YaguangZhang_Resume_LetterSize_20200630_Purdue"
 [Click me to get a PDF copy.]({{ base_path }}/files/{{ page.cv_file_name }}.pdf)
 
 <div>
-  <div style="position:relative;padding-top:133.33%;">
+  <div style="position:relative;padding-top:125%;">
     <iframe src="{{ base_path }}/files/{{ page.cv_file_name }}.pdf#view=FitH" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen></iframe>
   </div>
 </div>
