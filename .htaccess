@@ -1,0 +1,14 @@
+# ----------------------------------------------------------------------
+# Custom 404 page
+# ----------------------------------------------------------------------
+ErrorDocument 404 /404.html
+
+# ----------------------------------------------------------------------
+# Allow loading resources between two domains owned
+# ----------------------------------------------------------------------
+<FilesMatch "\.(ttf|otf|eot|woff(2)?|ogg|mp3|jpeg|jpg|js|php)$">
+    <IfModule mod_headers.c>
+        SetEnvIfNoCase Origin "^http(s)?:\/\/(www\.)?(zyglabs\.com|smallpi\.club)(:\d+)?$" AccessControlAllowOrigin=$0
+        Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
+    </IfModule>
+</FilesMatch>

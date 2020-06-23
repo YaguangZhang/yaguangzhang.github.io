@@ -14,8 +14,9 @@ title_separator          : "-"
 name                     : &name "Yaguang Zhang"
 description              : &description "Research assistant at Purdue University"
 # The base hostname & protocol for your site e.g. "https://mmistakes.github.io".
-# Options are https://yaguangzhang.github.io and https://smallpi.zyglabs.com
-# (addon domain for smallpi.club).
+# Options are
+#   - https://yaguangzhang.github.io (personal Github page) and
+#   - https://smallpi.zyglabs.com (addon domain for smallpi.club).
 url                      : https://yaguangzhang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaguangZhang/yaguangzhang.github.io"
