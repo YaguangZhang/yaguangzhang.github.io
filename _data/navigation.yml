@@ -6,5 +6,8 @@ main:
   - title: "Presentations"
     url: /presentations/
 
+  - title: "Professional Experience"
+    url: /professional_experience/
+
   - title: "CV"
     url: /cv/

@@ -6,7 +6,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cv_file_name: "YaguangZhang_Resume_LetterSize_20200630_Purdue"
+cv_file_name: "YaguangZhang_CurriculumVitae_LetterSize_20200705"
 ---
 
 {% include base_path %}
