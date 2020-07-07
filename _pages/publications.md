@@ -30,7 +30,7 @@ Conferences
 
 6.  **Zhang, Y.**, Love, D.J., Michelusi, N., Krogmeier, J.V., Jyoti, S., Sprintson, A. and Anderson, C.R., 2018, March. **Improving millimeter-wave channel models for suburban environments with site-specific geometric features**. In *2018 International Applied Computational Electromagnetics Society Symposium (ACES)* (pp. 1-2). IEEE. DOI: [10.23919/ROPACES.2018.8364140](https://doi.org/10.23919/ROPACES.2018.8364140).
 
-7.  Buckmaster, D., Krogmeier, J.V., Ault, A., Noel, S., Wang, Y., **Zhang, Y.**, Layton, A. and Balmos, A., 2018, June. **Use cases for real time data in agriculture**. In *2018 International Conference on Precision Agriculture*. ISPA. \[Online\] Available at: <https://www.internationalsocietyofprecisionagriculture.org/proceedings/?action=abstract&id=5394> (Accessed: 19 June 2020).
+7.  Buckmaster, D., Krogmeier, J.V., Ault, A., Noel, S., Wang, Y., **Zhang, Y.**, Layton, A. and Balmos, A., 2018, June. **Use cases for real time data in agriculture**. In *2018 International Conference on Precision Agriculture*. ISPA. Accessed: July 6, 2020. \[Online\]. Available: <http://www.internationalsocietyofprecisionagriculture.org/proceedings/?action=abstract&id=5394>.
 
 8.  Lindsay, A.M., Wang, Y., Noel, S., **Zhang, Y.**, Krogmeier, J.V. and Buckmaster, D., 2018. **CAN-based forage yield mapping**. In *2018 ASABE Annual International Meeting* (p. 1). American Society of Agricultural and Biological Engineers. DOI: [10.13031/aim.201801016](https://doi.org/10.13031/aim.201801016).
 
