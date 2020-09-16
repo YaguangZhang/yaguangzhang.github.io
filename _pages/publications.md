@@ -9,11 +9,11 @@ author_profile: true
 Journals
 --------
 
-1.  **Zhang, Y.**, Love, D.J., Michelusi, N., Krogmeier, J.V., Jyoti, S., Sprintson, A. and Anderson, C.R., 2019, February. **Improving millimeter-wave channel models for suburban environments with site-specific geometric features**. In *ACES Journal Special Issue on ACES 2018 Denver Conference: Part 2*, Vol. 34, No. 2.
+1.  **Zhang, Y.**, Love, D.J., Michelusi, N., Krogmeier, J.V., Jyoti, S., Sprintson, A. and Anderson, C.R., 2019, February. **Improving millimeter-wave channel models for suburban environments with site-specific geometric features**. *ACES Journal Special Issue on ACES 2018 Denver Conference: Part 2*, Vol. 34, No. 2.
 
-2.  **Zhang, Y.**, Anderson, C.R., Michelusi, N., Love, D.J., Baker, K.R. and Krogmeier, J.V., 2019, June. **Propagation modeling through foliage in a coniferous forest at 28 GHz**. In *IEEE Wireless Communications Letters*, vol. 8, no. 3, pp. 901-904, DOI: [10.1109/LWC.2019.2899299](https://doi.org/10.1109/LWC.2019.2899299).
+2.  **Zhang, Y.**, Anderson, C.R., Michelusi, N., Love, D.J., Baker, K.R. and Krogmeier, J.V., 2019, June. **Propagation modeling through foliage in a coniferous forest at 28 GHz**. *IEEE Wireless Communications Letters*, vol. 8, no. 3, pp. 901-904, DOI: [10.1109/LWC.2019.2899299](https://doi.org/10.1109/LWC.2019.2899299).
 
-3.  **Zhang, Y.**, Krogmeier, J.V., Ault, A. and Buckmaster, D., 2020. **APT3: automated product traceability trees generated from GPS tracks**. To appear in *Transactions of the ASABE*.
+3.  **Zhang, Y.**, Krogmeier, J.V., Ault, A. and Buckmaster, D., 2020. **APT3: automated product traceability trees generated from GPS tracks**. *Transactions of the ASABE*, p.0, DOI: [10.13031/trans.13384](https://doi.org/10.13031/trans.13384).
 
 Conferences
 -----------
@@ -42,7 +42,9 @@ Conferences
 
 12. **Zhang, Y.**, Krogmeier, J.V. and Buckmaster, D., 2019. **A probabilistic model for estimating harvested areas via GPS tracks**. To appear in *2019 ASABE Annual International Meeting*. American Society of Agricultural and Biological Engineers.
 
-13. **Zhang, Y.**, Arakawa, T., Krogmeier, J.V., Anderson, C.R., Love, D.J. and Buckmaster, D., 2020. **Large-scale cellular coverage analyses for UAV data relay via channel modeling**. To appear in *2020 IEEE International Conference on Communications (ICC)* (pp. 1-6). IEEE. [**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
+13. **Zhang, Y.**, Arakawa, T., Krogmeier, J.V., Anderson, C.R., Love, D.J. and Buckmaster, D.R., 2020, June. **Large-scale cellular coverage analyses for UAV data relay via channel modeling**. In *2020 IEEE International Conference on Communications (ICC)* (pp. 1-6). IEEE. DOI: [10.1109/ICC40277.2020.9149403](https://doi.org/10.1109/ICC40277.2020.9149403). [**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
+
+14. **Zhang, Y.**, Tan, J., Dorbert, B., Anderson, C.R. and Krogmeier, J.V., 2020. **Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest**. To appear in *2020* *IEEE Global Communications Conference (GLOBECOM)* (pp. 1-6). IEEE.
 
 Technical Reports
 -----------------

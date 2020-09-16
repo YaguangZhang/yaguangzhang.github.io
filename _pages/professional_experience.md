@@ -39,17 +39,19 @@ Service to the community
 Peer Reviews
 ------------
 
-1.  2016\. *Military Communications Conference (MILCOM).*
+1.  2016\. *Military Communications Conference (MILCOM)*.
 
 2.  2017\. *IEEE Access*.
 
-3.  2018\. *Military Communications Conference (MILCOM).*
+3.  2018\. *Military Communications Conference (MILCOM)*.
 
-4.  2019\. *Military Communications Conference (MILCOM).*
+4.  2019\. *Military Communications Conference (MILCOM)*.
 
 5.  2019\. *IEEE Journal on Selected Areas in Communications (JSAC)*.
 
 6.  2019\. *International Telecommunication Union (ITU) Journal: Information and Communication Technology (ICT) Discoveries -- Special issue -- Radio wave propagation*.
+
+7.  2020\. *IEEE Global Communications Conference (GLOBECOM)*.
 
 Programming Projects
 --------------------

@@ -60,6 +60,12 @@ Poster Presentations
 
 9.  July 30, 2019. **Wireless Connectivity for Agricultural IoT Devices**. *2019 Facebook Connectivity Lab Summer Workshop on Rural Connectivity*. Menlo Park, California, USA. Presented by my colleague Tomohiro Arakawa (Email: <tomohiro@tarakawa.net>).
 
+10. September 24, 2020. **Generating Product Traceability Trees for Harvesting from GPS Tracks**. *2020 Unlocking the Agricultural Data Revolution*. University of Minnesota, Minneapolis, Minnesota, USA. [**\[Student Poster Competition - Honorary Mention Prize\]**](https://yaguangzhang.github.io/files/UniOfMinnesota2020_Student%20Competition%20Flyer%20v2.3.pdf)
+
+11. September 24, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 Unlocking the Agricultural Data Revolution*. University of Minnesota, Minneapolis, Minnesota, USA. [**\[Student Poster Competition - Honorary Mention Prize\]**](https://yaguangzhang.github.io/files/UniOfMinnesota2020_Student%20Competition%20Flyer%20v2.3.pdf)
+
+12. September 25, 2020. **Dynamic High-Precision Field Shape Generation via Combine GPS Tracks**. *2020 Unlocking the Agricultural Data Revolution*. University of Minnesota, Minneapolis, Minnesota, USA. [**\[Selected for Live Student Poster Presentation Competition of the Top 3 Positions\]**](https://yaguangzhang.github.io/files/UniOfMinnesota2020_Student%20Competition%20Flyer%20v2.3.pdf)
+
 Live Demos
 ----------
 
