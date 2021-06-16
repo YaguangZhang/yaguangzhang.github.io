@@ -1,6 +1,6 @@
 ## About
 
-This repository contains the source code for my personal website at: [https://yaguangzhang.github.com/](https://yaguangzhang.github.com/). It is based on [academicpages](https://academicpages.github.io/).
+This repository contains the source code for my personal website at: [https://yaguangzhang.github.io/](https://yaguangzhang.github.io/). It is based on [academicpages](https://academicpages.github.io/).
 
 ## Contact
 
