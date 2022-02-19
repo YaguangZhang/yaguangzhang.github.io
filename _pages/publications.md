@@ -55,7 +55,7 @@ Conferences
 
 16. **Zhang, Y.**, Jha, S., Bullock, D.M. and Krogmeier, J.V., 2021, September. **Generating dynamic prescription maps for winter road treatment via sun-shadow simulation**. In *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)* (pp. 3387-3392). IEEE. DOI: [10.1109/ITSC48978.2021.9565055](https://doi.org/10.1109/ITSC48978.2021.9565055). [**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/Itsc2021_Yaguang_SunShadowSim.mp4)
 
-17. **Keshavamurthy, B., Zhang, Y., Anderson, C.R., Michelusi, N., Krogmeier, J.V. and Love, D.J., 2022. A robotic antenna alignment and tracking system for millimeter wave propagation modeling.** To appear in *2022 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM).* IEEE. [**\[arXiv preprint\]**](https://arxiv.org/abs/2110.07106)
+17. Keshavamurthy, B., **Zhang, Y.**, Anderson, C.R., Michelusi, N., Krogmeier, J.V. and Love, D.J., 2022. **A robotic antenna alignment and tracking system for millimeter wave propagation modeling**. To appear in *2022 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM).* IEEE. [**\[arXiv preprint\]**](https://arxiv.org/abs/2110.07106)
 
 Technical Reports
 -----------------
