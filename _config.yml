@@ -9,10 +9,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaguang Zhang"
+title                    : "About Dr. Yaguang Zhang"
 title_separator          : "-"
-name                     : &name "Yaguang Zhang"
-description              : &description "Research assistant at Purdue University"
+name                     : &name "Dr. Yaguang Zhang"
+description              : &description "Postdoctoral researcher at Purdue University"
 # The base hostname & protocol for your site e.g. "https://mmistakes.github.io".
 # Options are
 #   - https://yaguangzhang.github.io (personal Github page) and
@@ -86,9 +86,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaguang Zhang"
+  name             : "Dr. Yaguang Zhang"
   avatar           : "profile.png"
-  bio              : "Research assistant at Purdue University. Hobbyist artist."
+  bio              : "Postdoctoral researcher at Purdue University. Hobbyist artist."
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
