@@ -9,7 +9,11 @@ author_profile: true
 Invited Talks
 -------------
 
-1.  October 30, 2022. **Overcoming the Digital Divide by Large-Scale Coverage Analyses for mmWave Cellular Networks**. *2022 IEEE 56th Asilomar Conference on Signals, Systems, and Computers*. Pacific Grove, California, USA.
+1.  January 31, 2018. **28-GHz Channel Measurements and Modeling for Suburban Environments**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
+
+2.  February 13, 2019. **Propagation Modeling Through Foliage in a Coniferous Forest at 28 GHz**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
+
+3.  October 30, 2022. **Overcoming the Digital Divide by Large-Scale Coverage Analyses for mmWave Cellular Networks**. *2022 IEEE 56th Asilomar Conference on Signals, Systems, and Computers*. Pacific Grove, California, USA.
 
 Talks
 -----
@@ -20,39 +24,35 @@ Talks
 
 3.  July 17, 2017. **Activity Recognition for Harvesting via GPS Tracks**. *2017 ASABE Annual International Meeting (AIM)*. Spokane, Washington, USA.
 
-4.  January 31, 2018. **28-GHz Channel Measurements and Modeling for Suburban Environments**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
+4.  March 24, 2018. **Improving Millimeter-Wave Channel Models with Site-Specific Geometric Features**. *2018 International Applied Computational Electromagnetics Society (ACES) Symposium*. Denver, Colorado, USA.
 
-5.  March 24, 2018. **Improving Millimeter-Wave Channel Models with Site-Specific Geometric Features**. *2018 International Applied Computational Electromagnetics Society (ACES) Symposium*. Denver, Colorado, USA.
+5.  May 23, 2018. **28-GHz Channel Measurements and Modeling for Suburban Environments**. *2018 IEEE International Conference on Communications (ICC)*. Kansas City, Missouri, USA.
 
-6.  May 23, 2018. **28-GHz Channel Measurements and Modeling for Suburban Environments**. *2018 IEEE International Conference on Communications (ICC)*. Kansas City, Missouri, USA.
+6.  January 9, 2019. **Channel Model Comparison for 28 GHz Millimeter Wave in Suburban and Rural Environments**. *United States National Committee (USNC) for the International Union of Radio Science (URSI) National Radio Science Meeting (NRSM)*. Boulder, Colorado, USA. Presented by Prof. Christopher R. Anderson (Email: <canderso@usna.edu>).
 
-7.  January 9, 2019. **Channel Model Comparison for 28 GHz Millimeter Wave in Suburban and Rural Environments**. *United States National Committee (USNC) for the International Union of Radio Science (URSI) National Radio Science Meeting (NRSM)*. Boulder, Colorado, USA. Presented by Prof. Christopher R. Anderson (Email: <canderso@usna.edu>).
+7.  February 25, 2019. **Generating Product Traceability Trees for Harvesting from GPS Tracks**. *2019 Open Ag Technology and Systems Center Conference (OATSCON19)*. Chicago, Illinois, USA.
 
-8.  February 13, 2019. **Propagation Modeling Through Foliage in a Coniferous Forest at 28 GHz**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
+8.  July 10, 2019. **A Probabilistic Model for Estimating Harvested Areas via GPS Tracks**. *2019 ASABE Annual International Meeting (AIM)*. Boston, Massachusetts, USA.
 
-9.  February 25, 2019. **Generating Product Traceability Trees for Harvesting from GPS Tracks**. *2019 Open Ag Technology and Systems Center Conference (OATSCON19)*. Chicago, Illinois, USA.
+9.  August 8, 2019. **Activity Recognition for Harvesting via GPS Tracks**. *2019 Open Ag Technology and Systems Center (OATS) Showcase Reception for Case New Holland Industrial (CHI) Inc*. Purdue University, West Lafayette, Indiana, USA.
 
-10. July 10, 2019. **A Probabilistic Model for Estimating Harvested Areas via GPS Tracks**. *2019 ASABE Annual International Meeting (AIM)*. Boston, Massachusetts, USA.
+10. August 29, 2019. **Activity Recognition for Harvesting via GPS Tracks**. *2019 Open Ag Technology and Systems Center (OATS) Showcase Reception for Infosys Limited*. Purdue University, West Lafayette, Indiana, USA.
 
-11. August 8, 2019. **Activity Recognition for Harvesting via GPS Tracks**. *2019 Open Ag Technology and Systems Center (OATS) Showcase Reception for Case New Holland Industrial (CHI) Inc*. Purdue University, West Lafayette, Indiana, USA.
+11. February 19, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 Global City Teams Challenge (GCTC) Smart Ag & Rural Supercluster Workshop*. Phoenix, Arizona, USA.
 
-12. August 29, 2019. **Activity Recognition for Harvesting via GPS Tracks**. *2019 Open Ag Technology and Systems Center (OATS) Showcase Reception for Infosys Limited*. Purdue University, West Lafayette, Indiana, USA.
+12. June 9, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 IEEE International Conference on Communications (ICC)*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
 
-13. February 19, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 Global City Teams Challenge (GCTC) Smart Ag & Rural Supercluster Workshop*. Phoenix, Arizona, USA.
+13. July 8, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 AgGateway Mid-Year Meeting*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/aggateway_2020_YaguangZhang_CellCoverageSimulationForDrones.mp4)
 
-14. June 9, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 IEEE International Conference on Communications (ICC)*. *Virtual conference*. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
+14. November 19, 2020. **GPS Data Analyses for Wheat Harvesting**. *2020 AgGateway Virtual Annual Conference*. Delivered remotely.
 
-15. July 8, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 AgGateway Mid-Year Meeting*. *Virtual conference*. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/aggateway_2020_YaguangZhang_CellCoverageSimulationForDrones.mp4)
+15. December 9, 2020. **Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest**. *2020 IEEE Global Communications Conference (GLOBECOM)*. Hybrid conference. Taipei, Taiwan. Delivered virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/GlobeCom2020_Yaguang_SimAidedChannelModeling.mp4)
 
-16. November 19, 2020. **GPS Data Analyses for Wheat Harvesting**. *2020 AgGateway Virtual Annual Conference*. Delivered remotely.
+16. March 25, 2021. **Automatic Field Records**. *2021 Open Ag Technology and Systems Center Conference (OATSCON21)*. Virtual conference. Purdue University, West Lafayette, Indiana, USA. Delivered remotely.
 
-17. December 9, 2020. **Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest**. *2020 IEEE Global Communications Conference (GLOBECOM)*. *Hybrid conference*. Taipei, Taiwan. Delivered virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/GlobeCom2020_Yaguang_SimAidedChannelModeling.mp4)
+17. September 22, 2021. **Generating Dynamic Prescription Maps for Winter Road Treatment via Sun-Shadow Simulation**. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*. Hybrid conference. Indianapolis, Indiana, USA. Delivered both in person and virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/Itsc2021_Yaguang_SunShadowSim.mp4)
 
-18. March 25, 2021. **Automatic Field Records**. *2021 Open Ag Technology and Systems Center Conference (OATSCON21)*. *Virtual conference*. Purdue University, West Lafayette, Indiana, USA. Delivered remotely.
-
-19. September 22, 2021. **Generating Dynamic Prescription Maps for Winter Road Treatment via Sun-Shadow Simulation**. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*. *Hybrid conference*. Indianapolis, Indiana, USA. Delivered both in person and virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/Itsc2021_Yaguang_SunShadowSim.mp4)
-
-20. December 21, 2021. **Rural Wireless Propagation Modeling**. *Internet of Things for Precision Agriculture (IoT4Ag) Industrial/Practitioner Advisory Board (IPAB) Meeting*. Delivered remotely.
+18. December 21, 2021. **Rural Wireless Propagation Modeling**. *Internet of Things for Precision Agriculture (IoT4Ag) Industrial/Practitioner Advisory Board (IPAB) Meeting*. Delivered remotely.
 
 Poster Presentations
 --------------------
