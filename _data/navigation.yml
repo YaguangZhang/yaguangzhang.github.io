@@ -9,5 +9,8 @@ main:
   - title: "Professional Experience"
     url: /professional_experience/
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "CV"
     url: /cv/
