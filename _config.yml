@@ -92,7 +92,7 @@ author:
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # example: "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rAJ_2z4AAAAJ"
   email            : "yaguangzhang@outlook.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
