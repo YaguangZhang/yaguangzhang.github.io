@@ -23,7 +23,7 @@ Magazines
 Conferences
 -----------
 
-1.  **Zhang, Y.**, Balmos, A., Krogmeier, J.V. and Buckmaster, D., 2015, September. **Working zone identification for specialized micro transportation systems using GPS tracks**. In *2015 IEEE 18th International Conference on* *Intelligent Transportation Systems (ITSC)* (pp. 1779-1784). IEEE. DOI: [10.1109/ITSC.2015.289](https://doi.org/10.1109/ITSC.2015.289).
+1.  **Zhang, Y.**, Balmos, A., Krogmeier, J.V. and Buckmaster, D., 2015, September. **Working zone identification for specialized micro transportation systems using GPS tracks**. In *2015 IEEE 18th International Conference on Intelligent Transportation Systems (ITSC)* (pp. 1779-1784). IEEE. DOI: [10.1109/ITSC.2015.289](https://doi.org/10.1109/ITSC.2015.289).
 
 2.  Layton, A.W., **Zhang, Y.**, Krogmeier, J.V. and Buckmaster, D.R., 2017. **Determining harvesting efficiency via multiple combine GPS logs**. In *2017 ASABE Annual International Meeting* (p. 1). American Society of Agricultural and Biological Engineers. DOI: [10.13031/aim.201700816](https://doi.org/10.13031/aim.201700816).
 
@@ -43,7 +43,7 @@ Conferences
 
 10. Wang, Y., **Zhang, Y.**, Buckmaster, D. and Krogmeier, J., 2019. **Combine harvester unloading event inference using GPS data**. In *2019 ASABE Annual International Meeting* (p. 1). American Society of Agricultural and Biological Engineers. DOI: [10.13031/aim.201901286](https://doi.org/10.13031/aim.201901286).
 
-11. Wang, Y., **Zhang, Y.**, Balmos, A., Buckmaster, D. and Krogmeier, J.V., 2019. **A tutorial on wireless communication protocol selection for digital agricultural applications**. To appear in *2019 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers*.
+11. Wang, Y., **Zhang, Y.**, Balmos, A., Buckmaster, D. and Krogmeier, J.V., 2019. **A tutorial on wireless communication protocol selection for digital agricultural applications**. To appear in *2019 ASABE Annual International Meeting*. American Society of Agricultural and Biological Engineers.
 
 12. **Zhang, Y.**, Krogmeier, J.V. and Buckmaster, D., 2019. **A probabilistic model for estimating harvested areas via GPS tracks**. To appear in *2019 ASABE Annual International Meeting*. American Society of Agricultural and Biological Engineers.
 
