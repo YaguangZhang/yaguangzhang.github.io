@@ -46,6 +46,8 @@ Teaching Experience in Reverse-Chronological Order
 
     a.  *ENGL 620 Classroom Communication in ESL For Teaching Assistants*: designed and delivered 4 talks on selected topics in electrical and computer engineering.
 
+3.  July 2011. **Volunteer Teacher**. Jiantang Village Elementary School, Fenghuang County, Hunan Province, China.
+
 Peer Reviews
 ------------
 
@@ -145,7 +147,7 @@ Career Development in Reverse-Chronological Order
 
 13. January 2015 -- December 2021. **Student Member**. *Institute of Electrical and Electronics Engineers (IEEE)*.
 
-Programming Projects
+Open-Source Projects
 --------------------
 
 1.  **\[Android\] Pavement Patching Tracker**: a GPS logger for tracking pavement patching based on Combine Kart Truck.  
