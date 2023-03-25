@@ -6,8 +6,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-Selected Awards in Reverse-Chronological Order
-----------------------------------------------
+## Selected Awards in Reverse-Chronological Order
 
 1.  2021\. **Student Travel Support**. 24th IEEE International Intelligent Transportation Systems Conference (ITSC).
 
@@ -23,13 +22,13 @@ Selected Awards in Reverse-Chronological Order
 
 7.  2012\. **China National Scholarship**. Chinese Government Scholarship. Tianjin University.
 
-8.  2012\. **Dean\'s Award**. School of Electronic Information Engineering. Tianjin University.
+8.  2012\. **Dean's Award**. School of Electronic Information Engineering. Tianjin University.
 
 9.  2012\. **Endeavour Awards**. Australian Government Scholarship. University of South Australia.
 
 10. 2011\. **China National Scholarship**. Chinese Government Scholarship. Tianjin University.
 
-11. 2011\. **Dean\'s Award**. School of Electronic Information Engineering. Tianjin University.
+11. 2011\. **Dean's Award**. School of Electronic Information Engineering. Tianjin University.
 
 12. 2011\. **Tianjin Area Undergraduate Physics Competition First Prize** (top 5%).
 

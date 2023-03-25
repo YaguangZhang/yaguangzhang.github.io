@@ -6,17 +6,17 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Invited Talks
--------------
+## Invited Talks
 
 1.  January 31, 2018. **28-GHz Channel Measurements and Modeling for Suburban Environments**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
 
 2.  February 13, 2019. **Propagation Modeling Through Foliage in a Coniferous Forest at 28 GHz**. *National Institute of Standards and Technology (NIST)/Institute for Telecommunication Sciences (ITS) Propagation Focus Group Guest Talk*. Delivered remotely.
 
-3.  October 30, 2022. **Overcoming the Digital Divide by Large-Scale Coverage Analyses for mmWave Cellular Networks**. *2022 IEEE 56th Asilomar Conference on Signals, Systems, and Computers*. Pacific Grove, California, USA.
+3.  February 19, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 Global City Teams Challenge (GCTC) Smart Ag & Rural Supercluster Workshop*. Phoenix, Arizona, USA.
 
-Talks
------
+4.  October 30, 2022. **Overcoming the Digital Divide by Large-Scale Coverage Analyses for mmWave Cellular Networks**. *2022 IEEE 56th Asilomar Conference on Signals, Systems, and Computers*. Pacific Grove, California, USA.
+
+## Talks
 
 1.  September 16, 2015. **Working Zone Identification for Specialized Micro Transportation Systems Using GPS Tracks**. *2015 IEEE 18th International Conference on Intelligent Transportation Systems (ITSC)*. Las Palmas de Gran Canaria, Spain.
 
@@ -38,24 +38,33 @@ Talks
 
 10. August 29, 2019. **Activity Recognition for Harvesting via GPS Tracks**. *2019 Open Ag Technology and Systems Center (OATS) Showcase Reception for Infosys Limited*. Purdue University, West Lafayette, Indiana, USA.
 
-11. February 19, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 Global City Teams Challenge (GCTC) Smart Ag & Rural Supercluster Workshop*. Phoenix, Arizona, USA.
+11. June 9, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 IEEE International Conference on Communications (ICC)*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
 
-12. June 9, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 IEEE International Conference on Communications (ICC)*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/ICC2020_WC17_CellCoverageSimulationForDrones.mp4)
+12. July 8, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 AgGateway Mid-Year Meeting*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/aggateway_2020_YaguangZhang_CellCoverageSimulationForDrones.mp4)
 
-13. July 8, 2020. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2020 AgGateway Mid-Year Meeting*. Virtual conference. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/aggateway_2020_YaguangZhang_CellCoverageSimulationForDrones.mp4)
+13. November 19, 2020. **GPS Data Analyses for Wheat Harvesting**. *2020 AgGateway Virtual Annual Conference*. Delivered remotely.
 
-14. November 19, 2020. **GPS Data Analyses for Wheat Harvesting**. *2020 AgGateway Virtual Annual Conference*. Delivered remotely.
+14. December 9, 2020. **Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest**. *2020 IEEE Global Communications Conference (GLOBECOM)*. Hybrid conference. Taipei, Taiwan. Delivered virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/GlobeCom2020_Yaguang_SimAidedChannelModeling.mp4)
 
-15. December 9, 2020. **Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest**. *2020 IEEE Global Communications Conference (GLOBECOM)*. Hybrid conference. Taipei, Taiwan. Delivered virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/GlobeCom2020_Yaguang_SimAidedChannelModeling.mp4)
+15. March 25, 2021. **Automatic Field Records**. *2021 Open Ag Technology and Systems Center Conference (OATSCON21)*. Virtual conference. Purdue University, West Lafayette, Indiana, USA. Delivered remotely.
 
-16. March 25, 2021. **Automatic Field Records**. *2021 Open Ag Technology and Systems Center Conference (OATSCON21)*. Virtual conference. Purdue University, West Lafayette, Indiana, USA. Delivered remotely.
+16. September 22, 2021. **Generating Dynamic Prescription Maps for Winter Road Treatment via Sun-Shadow Simulation**. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*. Hybrid conference. Indianapolis, Indiana, USA. Delivered both in person and virtually. [\[Virtual presentation\]](https://yaguangzhang.github.io/files/Itsc2021_Yaguang_SunShadowSim.mp4)
 
-17. September 22, 2021. **Generating Dynamic Prescription Maps for Winter Road Treatment via Sun-Shadow Simulation**. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*. Hybrid conference. Indianapolis, Indiana, USA. Delivered both in person and virtually. []{.underline}[**\[Virtual presentation\]**](https://yaguangzhang.github.io/files/Itsc2021_Yaguang_SunShadowSim.mp4)
+17. December 21, 2021. **Rural Wireless Propagation Modeling**. *Internet of Things for Precision Agriculture (IoT4Ag) Industrial/Practitioner Advisory Board (IPAB) Meeting*. Delivered remotely.
 
-18. December 21, 2021. **Rural Wireless Propagation Modeling**. *Internet of Things for Precision Agriculture (IoT4Ag) Industrial/Practitioner Advisory Board (IPAB) Meeting*. Delivered remotely.
+18. March 15, 2022. **Comprehensive Pavement Patching Tools and Web-Based Software for Pavement Condition Assessment and Visualization**. *108th Purdue Road School Transportation Conference and Expo*. Purdue University, West Lafayette, Indiana, USA. Co-presented with my colleague Sneha Jha (Email: <jha16@purdue.edu>).
 
-Poster Presentations
---------------------
+19. October 25, 2022. **Web-Based Patching Management Tool using Multi-Sensor Pavement Condition Measurements**. *31st Annual FWD Users Group Meeting*. Reno, Nevada, USA. Presented by my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+
+20. January 10, 2023. **Data-Driven, Web-Based Patching Management Tool Using Multi-Sensor Pavement Structure Measurements**. *2023 Transportation Research Board (TRB) 102nd Annual Meeting*. Presented by my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+
+21. March 15, 2023. **Automating Work Orders Using GPS Tracks**. *109th Purdue Road School Transportation Conference and Expo*. Purdue University, West Lafayette, Indiana, USA.
+
+22. February 24, 2023. **Large-Scale Cellular Coverage Analyses for UAV Data Relay via Channel Modeling**. *2023 Open Ag Technology and Systems Center Conference (OATSCON23)*. Purdue University, West Lafayette, Indiana, USA. Delivered virtually.
+
+23. February 24, 2023. **Automating Work Orders for Winter Weather Operations Using GPS Tracks**. *2023 Open Ag Technology and Systems Center Conference (OATSCON23)*. Purdue University, West Lafayette, Indiana, USA. Presented by my colleague Aaron Ault (Email: <ault@purdue.edu>).
+
+## Poster Presentations
 
 1.  July 18, 2017. **Dynamic High-Precision Field Shape Generation via Combine GPS Tracks**. *2017 ASABE Annual International Meeting (AIM)*. Spokane, Washington, USA.
 
@@ -91,15 +100,22 @@ Poster Presentations
 
 17. February 24, 2022. **Generating Dynamic Prescription Maps for Winter Road Treatment via Sun Shadow Simulation**. *2022 Joint Transportation Research Program (JTRP) Poster Session*. Indiana Government Center South Atrium, Indianapolis, Indiana, USA.
 
-18. February 24, 2022. **Comprehensive Pavement Patching Algorithm for Web Based Pavement Condition Assessment and Visualization Application**. *2022 Joint Transportation Research Program (JTRP) Poster Session*. Indiana Government Center South Atrium, Indianapolis, Indiana, USA. Presented with my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+18. February 24, 2022. **Comprehensive Pavement Patching Algorithm for Web-Based Pavement Condition Assessment and Visualization Application**. *2022 Joint Transportation Research Program (JTRP) Poster Session*. Indiana Government Center South Atrium, Indianapolis, Indiana, USA. Presented by my colleague Sneha Jha (Email: <jha16@purdue.edu>).
 
-19. March 15, 2022. **Comprehensive Pavement Patching Tools and Web-Based Software for Pavement Condition Assessment and Visualization**. *108th Purdue Road School Transportation Conference and Expo*. Purdue University, West Lafayette, Indiana, USA. Co-presented with my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+19. September 9, 2022. **Open-Agriculture Technology and Systems (OATS) Center**. *College of Agriculture Graduate Student Welcoming and Networking Event*. Purdue University, West Lafayette, Indiana, USA. Presented by my colleague Harsh Pathak (Email: <pathak19@purdue.edu>).
 
-Live Demos
-----------
+20. February 21, 2023. **Automating Work Orders for Winter Weather Operations Using GPS Tracks**. *2023 Joint Transportation Research Program (JTRP) Poster Session*. Indiana Government Center South Atrium, Indianapolis, Indiana, USA.
+
+21. February 21, 2023. **Comprehensive Pavement Patching Tools and Web-Based Software for Pavement Condition Assessment and Visualization**. *2023 Joint Transportation Research Program (JTRP) Poster Session*. Indiana Government Center South Atrium, Indianapolis, Indiana, USA. Presented by my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+
+22. March 2, 2023. **Development of an Automatic Contextual Agricultural Metadata Collection App**. *Graduate Industrial Research Symposium (GIRS) 2023*. Purdue University, West Lafayette, Indiana, USA. Presented by my colleague Md. Samiul Basir (Email: <mbasir@purdue.edu>). [\[First Place in Creating the Farm of the Future\]](https://yaguangzhang.github.io/files/GIRS2023_Certificate_Sami_1080p.jpg)
+
+## Live Demos
 
 1.  September 13, 2016. **College of Engineering Space and Data Mapping Program: Live Demo for Purdue Room Info Viewer (Stage 3)**. *College of Engineering Space Committee Meeting*. Purdue University, West Lafayette, Indiana, USA. [\[Demonstration video\]](https://yaguangzhang.github.io/files/PurdueRoomInfoViewerDemo_Stage3_Compressed.mp4)
 
 2.  August 23, 2019. **ISOBlue HD: An Open-Source Ag Data Collection Platform with Live Video Streaming Capability**. *2019 Joint Transportation Research Program (JTRP) Executive Committee Meeting*. Indiana Corn and Soybean Innovation Center, Purdue University, West Lafayette, Indiana, USA. Co-presented with my colleague Yang Wang (Email: <wang701@purdue.edu>).
 
 3.  March 15, 2022. **Patching Management Tool (PMT): A Comprehensive Web App for Pavement Condition Assessment and Visualization**. *108th Purdue Road School Transportation Conference and Expo*. Purdue University, West Lafayette, Indiana, USA. Co-presented with my colleague Sneha Jha (Email: <jha16@purdue.edu>).
+
+4.  March 15, 2023. **Automating Work Orders Using GPS Tracks**. *109th Purdue Road School Transportation Conference and Expo*. Purdue University, West Lafayette, Indiana, USA.
