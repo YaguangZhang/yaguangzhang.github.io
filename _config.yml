@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "About Dr. Yaguang Zhang"
 title_separator          : "-"
 name                     : &name "Dr. Yaguang Zhang"
-description              : &description "Postdoctoral researcher at Purdue University"
+description              : &description "Clinical Assistant Professor at Purdue University"
 # The base hostname & protocol for your site e.g. "https://mmistakes.github.io".
 # Options are
 #   - https://yaguangzhang.github.io (personal Github page) and
@@ -88,11 +88,11 @@ analytics:
 author:
   name             : "Dr. Yaguang Zhang"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at Purdue University. Hobbyist artist."
+  bio              : "Clinical Assistant Professor at Purdue University. Hobbyist Artist."
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rAJ_2z4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ri0pq_EAAAAJ"
   email            : "yaguangzhang@outlook.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
