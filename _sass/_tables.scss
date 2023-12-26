@@ -36,3 +36,12 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+// Zyg: New rules.
+tr.odd {
+  background:ghostwhite;
+}
+
+table {
+  font-size: $type-size-5;
+}
