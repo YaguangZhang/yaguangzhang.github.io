@@ -19,7 +19,7 @@ gem "github-pages", group: :jekyll_plugins
 require 'em/pure_ruby' if not defined?(EventMachine)
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw] if Gem.win_platform?
+gem "tzinfo-data" #, platforms: [:mingw, :mswin, :x64_mingw] if Gem.win_platform?
 
 # Added on 20211201 by Yaguang:
 gem "webrick"
