@@ -46,15 +46,17 @@ author_profile: true
 
 ## Media Coverage
 
-1.  March 2025. **Using Sun Shadows and Simulations to Combat Snowy Roads**. <span class="mark">To appear</span> in *College of Agriculture 2025 News & Stories*. Purdue University.
+1.  March 2025. **Scholarly Excellence**. *Purdue Today*. Purdue University. Available at: [\[Link\]](https://view.communicate.purdue.edu/?qs=0062f75570f7575f95affb7998280b2e824ce99afdcf9b1889e0e8da1b314fb5d781052854c9a3b42e9814dbbcd654718729905de274342529437c8620e45580b53d79760d03f1a815bcfd75d9446afcafb33b8d3f681a94) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/PurdueToday_20250325.pdf).
 
-2.  February 2025. **Education Spotlight: Data Science Class Designed to Challenge Students**. *Institute for Digital and Advanced Agricultural Systems (IDAAS) Newsletter, February 2025*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=a50277f7-4885-45c9-ad85-a2defb2c8c92) \| [\[Mirror\]](https://yaguangzhang.github.io/files/IDAAS%20Newsletter_February%202025_Edu%20Spotlight.pdf).
+2.  March 2025. **Using Sun Shadows and Simulations to Combat Snowy Roads**. *College of Agriculture 2025 News & Stories*. Purdue University. Available at: [\[Link\]](https://ag.purdue.edu/news/2025/03/using-sun-shadows-and-simulations-to-combat-snowy-roads.html) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/UsingSunShadowsAndSimulationsToCombatSnowyRoads.pdf).
 
-3.  May 2024. **Faculty Spotlight**. *Digital Agriculture Newsletter, May 2024*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=f70d4398-71da-4d27-929b-553ff59f6bc2) \| [\[Mirror\]](https://yaguangzhang.github.io/files/Purdue%20Digital%20Agriculture%20Newsletter_May%202024_YZ.pdf).
+3.  February 2025. **Education Spotlight: Data Science Class Designed to Challenge Students**. *Institute for Digital and Advanced Agricultural Systems (IDAAS) Newsletter, February 2025*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=a50277f7-4885-45c9-ad85-a2defb2c8c92) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/IDAAS%20Newsletter_February%202025_Edu%20Spotlight.pdf).
 
-4.  April 2024. **Faculty Highlights in Online Education**. *Ag Online Newsletter, Spring 2024*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=0d36f947-f517-47e8-b2c7-b43521dd7d1f) \| [\[Mirror\]](https://yaguangzhang.github.io/files/Purdue%20Ag%20Online%20Newsletter_Spring%202024_YZ.pdf).
+4.  May 2024. **Faculty Spotlight**. *Digital Agriculture Newsletter, May 2024*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=f70d4398-71da-4d27-929b-553ff59f6bc2) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/Purdue%20Digital%20Agriculture%20Newsletter_May%202024_YZ.pdf).
 
-5.  January 2024. **The College of Agriculture Welcomes 11 New Faculty Members**. *College of Agriculture 2024 News & Stories*. Purdue University. Available at: [\[Link\]](https://ag.purdue.edu/news/2024/01/the-college-of-agriculture-welcomes-eleven-new-faculty-members.html) \| [\[Mirror\]](https://yaguangzhang.github.io/files/CoA%20welcomes%2011%20new%20faculty%20members_YZ.pdf).
+5.  April 2024. **Faculty Highlights in Online Education**. *Ag Online Newsletter, Spring 2024*. Purdue University. Available at: [\[Link\]](https://mailimages.purdue.edu/vo/?FileID=0d36f947-f517-47e8-b2c7-b43521dd7d1f) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/Purdue%20Ag%20Online%20Newsletter_Spring%202024_YZ.pdf).
+
+6.  January 2024. **The College of Agriculture Welcomes 11 New Faculty Members**. *College of Agriculture 2024 News & Stories*. Purdue University. Available at: [\[Link\]](https://ag.purdue.edu/news/2024/01/the-college-of-agriculture-welcomes-eleven-new-faculty-members.html) \| [\[Archived Copy\]](https://yaguangzhang.github.io/files/CoA%20welcomes%2011%20new%20faculty%20members_YZ.pdf).
 
 ## Grants
 
